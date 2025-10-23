@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+#Welcome to my blog page
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+<p>This is where I will create blog posts about each of the lab assignment related to IT533 Introduction to Networking</p>
